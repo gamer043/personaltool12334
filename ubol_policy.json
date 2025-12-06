@@ -1,0 +1,20 @@
+{
+  "3rdparty": {
+    "extensions": {
+      "ddkjiahejlhfcafbddmgiahcphecmpfh": {
+        "defaultFiltering": "complete",
+        "rulesets": [
+          "+block-lan",
+          "+adguard-spyware-url",
+          "+annoyances-cookies",
+          "+annoyances-overlays",
+          "+annoyances-others",
+          "+annoyances-notifications",
+          "+dpollock-0",
+          "+stevenblack-hosts",
+          "+ublock-experimental"
+        ]
+      }
+    }
+  }
+}
